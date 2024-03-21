@@ -40,3 +40,6 @@ Thursday, March 21st, 2024
 - [The Myth of the Machine, vol 1: Technics and Human Development](https://en.wikipedia.org/wiki/The_Myth_of_the_Machine) by Lewis Mumford
 - [The Technological Socity](https://en.wikipedia.org/wiki/The_Technological_Society) by Jacques Ellul
 - [Seeing Like A State: How Certain Schemes to Improve the Human Condition Have Failed](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/) by James C. Scott
+
+
+![QR code to this repo](./qr.png)
